@@ -1,5 +1,6 @@
 // Exercise #1
 
+
 const firstRow = prompt("Enter first sentences");
 firstRow = firstRow.toLowerCase;
 const secondRow = prompt("Enter second sentences");
